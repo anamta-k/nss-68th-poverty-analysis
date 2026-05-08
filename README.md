@@ -1,9 +1,10 @@
-# State-wise Poverty Estimation in India
+#  Objective - State-wise Poverty Estimation in India
 NSS 68th Round (2011–12) - Household Consumer Expenditure Survey
 
-This project estimates rural and urban poverty ratios across 35 states 
-and Union Territories using household microdata from the NSS 68th Round 
-Consumer Expenditure Survey (2011–12) and Tendulkar Committee poverty lines.
+This project estimates rural and urban poverty ratios across Indian states and Union Territories using microdata
+from the NSS 68th Round Consumer Expenditure Survey (2011–12). By applying the official Tendulkar poverty
+lines, the analysis produces household-weighted, sector-specific poverty ratios that capture both the level and
+distribution of poverty across 35 states and UTs, enabling meaningful comparisons of regional deprivation.
 
 ## Data
 
@@ -24,8 +25,9 @@ final MRP-based MPCE used in official poverty estimation, rebuilding it
 from item-level records would produce an identical result. Using Level 3 
 directly is the standard approach for head-count poverty estimation.
 
-Poverty lines are from the Tendulkar Committee (Planning Commission, 2011–12), 
-disaggregated by state and sector. Included as `Tendulkar_Povertyline__1_.xlsx`.
+The official Tendulkar Committee poverty lines for 2011–12, disaggregated by state and sector, serve as the
+threshold for poverty classification. State codes are mapped to three-letter abbreviations using a separate
+crosswalk file for labelling and visualisation. Included as `Tendulkar_Povertyline__1_.xlsx`.
 
 ## Methodology
 
