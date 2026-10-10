@@ -1,7 +1,7 @@
 #  Objective - State-wise Poverty Estimation in India
 NSS 68th Round (2011–12) - Household Consumer Expenditure Survey
 
-This project estimates rural and urban poverty ratios across Indian states and Union Territories using microdata
+This project aims to estimate rural and urban poverty ratios across Indian states and Union Territories using microdata
 from the NSS 68th Round Consumer Expenditure Survey (2011–12). By applying the official Tendulkar poverty
 lines, the analysis produces household-weighted, sector-specific poverty ratios that capture both the level and
 distribution of poverty across 35 states and UTs, enabling meaningful comparisons of regional deprivation.
